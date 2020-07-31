@@ -3965,15 +3965,15 @@ figure figcaption {
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
     .shape2 {
-        height: 70px;
-        width: 70px;
+        height: 60px;
+        width: 60px;
     }
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
     .shape2 {
-        height: 70px;
-        width: 70px;
+        height: 60px;
+        width: 60px;
     }
 }
 
